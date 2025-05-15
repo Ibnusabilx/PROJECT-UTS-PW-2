@@ -4,7 +4,7 @@
     <div class="float-right d-none d-sm-block">
       Student at STT Nurul Fikri
     </div>
-    <strong>Copyright &copy; 2025 <a href="https://adminlte.io">Muhammad Ibnu Sabil</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; 2025 <a href="https://adminlte.io">Muhammad fadil</a>.</strong> All rights reserved.
   </footer>
 
   <!-- Control Sidebar -->
